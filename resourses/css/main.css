@@ -1,0 +1,28 @@
+.huree{
+    height: 100px;
+  width: 500px;
+  background-color: powderblue;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+
+  .button {
+    background-color: aqua;
+    border: none;
+    color: blue;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  input {
+    width: 10%;
+  }
